@@ -12,4 +12,4 @@ An ebay like smartcontract. It'is included, product owners to deploy their own s
 > For other bidders, withdraws only after the auction status changed to Cancelled or Completed by their requests. No auto-payment.
 
 
-Contract Address: https://rinkeby.etherscan.io/tx/0xe5cc5839629058138e9c1b22dfc0b5ace7f629f5f148c2fc355e9186fca5ebbb
+Contract Address: https://rinkeby.etherscan.io/address/0x42cc14aaa248a7294c6589d186f91fd7028892d4
